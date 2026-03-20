@@ -1,5 +1,4 @@
-## Antonio Grijalva 👋
-### algo
+## Jose Antonio Grijalva A.
 ⚡ Lic. en Informática
 <!--
 **antoniogrijalva/antoniogrijalva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
